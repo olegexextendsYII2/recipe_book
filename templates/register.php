@@ -1,4 +1,5 @@
-<?    ?>
+<? require 'header.php'; ?>
+
  <div class="back-top" id="back-top">
       <a href="/" class="btn btn-block btn-lg btn-danger">рецепты</a>
     </div>
@@ -33,3 +34,4 @@
         <h1>Зарегистрируйтесь</h1>
     </p>
 </div>
+<? require 'footer.php'; ?>

@@ -1,3 +1,6 @@
+
+<? require 'header.php'; ?>
+
 <!DOCTYPE HTML>
 
 
@@ -86,3 +89,4 @@
  <br>
 <input value="изменить" type="submit" >
 </form>
+<? require 'footer.php'; ?>

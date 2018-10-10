@@ -1,3 +1,7 @@
+
+
+<? require 'header.php'; ?>
+
 <div class="container">
 <div class="back-top" id="back-top">
       <a href="/" class="btn btn-block btn-lg btn-danger">рецепты</a>
@@ -22,3 +26,4 @@
         </div>
     </div>
 </div>
+<? require 'footer.php'; ?>

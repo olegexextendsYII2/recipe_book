@@ -1,3 +1,8 @@
+
+<? require 'header.php'; ?>
+
+
+
 <!DOCTYPE HTML>
 
 
@@ -88,3 +93,4 @@
  <br>
 <input value="добавить" type="submit" >
 </form>
+<? require 'footer.php'; ?>

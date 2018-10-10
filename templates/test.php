@@ -1,4 +1,4 @@
-
+<? require 'header.php'; ?>
 
  
      <div class="back-top" id="back-top">
@@ -31,4 +31,4 @@
 		    echo '<a href = "/login'.'">авторизация</a> '.'<br>';
 		}
 
-		
+		require 'footer.php'; 
